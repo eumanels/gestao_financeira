@@ -1,0 +1,3 @@
+# Dependências extras só para desenvolvimento/testes locais
+-r requirements.txt
+pytest>=8.0

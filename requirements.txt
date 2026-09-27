@@ -1,0 +1,7 @@
+# Dependências de execução (usadas pelo Streamlit Community Cloud no deploy)
+streamlit>=1.50
+pandas>=2.2
+openpyxl>=3.1
+msal>=1.31
+requests>=2.32
+altair>=5.0

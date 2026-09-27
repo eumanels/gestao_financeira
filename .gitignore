@@ -1,0 +1,12 @@
+# NUNCA versionar credenciais nem dados financeiros
+.streamlit/secrets.toml
+*.xlsx
+~$*.xlsx
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
